@@ -1,0 +1,17 @@
+.home-main {
+  /* background-color: yellow; */
+  height: 65vh;
+  padding: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
+
+h2 {
+  font-size: 100px;
+}
+
+p {
+  font-size: 30px;
+}
